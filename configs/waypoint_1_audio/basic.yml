@@ -65,6 +65,6 @@ train:
   save_interval: 5000
 
 wandb:
-  name: wayfarerlabs
-  project: owl_audio_vaes
+  name: samirabdrloo-wayfare-lab
+  project: project_1
   run_name: waypoint_1_audio_basic
