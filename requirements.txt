@@ -21,3 +21,4 @@ pywavelets
 accelerate
 av==10.0.0
 ffmpeg-python
+kornia>=0.7.0
